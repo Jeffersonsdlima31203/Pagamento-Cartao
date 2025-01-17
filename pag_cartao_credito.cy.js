@@ -12,7 +12,7 @@ describe('Tenda - Produtos', () => {
       year: '2035',
       cvv: '352',
       name: 'Jefferon Silva de Lima',
-      cpf: '35275647808'
+      cpf: '961.536.350-24'
     }
   }
 
